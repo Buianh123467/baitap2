@@ -9,8 +9,10 @@ CÀI ĐẶT APACHE WEB SERVER
  <img width="1180" height="658" alt="Image" src="https://github.com/user-attachments/assets/f2791e78-33f5-4069-ad73-4d6305ba3916" />
 
 
+
  Cấu hình các files
  <img width="694" height="456" alt="Image" src="https://github.com/user-attachments/assets/83505a11-3b4b-4885-8b11-02d9948ab97b" />
+
 
 
 
@@ -19,7 +21,11 @@ CÀI ĐẶT APACHE WEB SERVER
 
 
 
+
+
  TẠO DATABASE
  <img width="574" height="304" alt="Image" src="https://github.com/user-attachments/assets/bede8169-19ba-467e-a6cd-5df11f119d6b" />
+
+
  
  
